@@ -65,7 +65,7 @@ This dashboard helps businesses:
 
 ## 📷 Dashboard Preview
 
-![image alt]()
+![image alt](https://github.com/yashchauhan-22/Blinkit-Sales-Dashboard/blob/bf77db8bb41cb7f21812673d1a2361fd57e90524/Screenshot%20(7).png)
 
 ## 📂 Project Structure
 
